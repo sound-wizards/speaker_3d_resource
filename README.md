@@ -1,0 +1,1 @@
+# speaker_3d_resource
